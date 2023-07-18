@@ -25,3 +25,8 @@ nvim  --headless -c 'quitall'
 1. Authentication
 
 Once copilot is running, run `:Copilot auth` to start the authentication process.
+
+## Link
+
+- [AstroNvim - Installing from an existing User Configuration](https://astronvim.com/Configuration/manage_user_config#installing-from-an-existing-user-configuration)
+- [CopilotLua - Authentication](https://github.com/zbirenbaum/copilot.lua#authentication)
