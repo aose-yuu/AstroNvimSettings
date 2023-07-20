@@ -11,7 +11,7 @@ git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
 2. Clone AstroNvimSettings repository
 
 ```bash
-git@github.com:aose-yuu/AstroNvimSettings.git ~/.config/nvim/lua/user
+git clone git@github.com:aose-yuu/AstroNvimSettings.git ~/.config/nvim/lua
 ```
 
 3. Initialize AstroNvim
@@ -20,7 +20,9 @@ git@github.com:aose-yuu/AstroNvimSettings.git ~/.config/nvim/lua/user
 nvim  --headless -c 'quitall'
 ```
 
-## Copilot
+## Options
+
+### Copilot
 
 1. Authentication
 
